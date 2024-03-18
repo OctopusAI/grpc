@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+grpc.egg-info/PKG-INFO
+grpc.egg-info/SOURCES.txt
+grpc.egg-info/dependency_links.txt
+grpc.egg-info/top_level.txt
